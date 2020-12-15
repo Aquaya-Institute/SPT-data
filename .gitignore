@@ -1,0 +1,11 @@
+# macOS Files
+.DS_Store
+
+# History Files
+.history/
+
+# Global Files
+datasets/global
+
+# dt, dr, classes tif
+datasets/gha/no_vis
