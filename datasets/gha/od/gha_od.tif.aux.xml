@@ -1,0 +1,18 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="grid_mapping">spatial_ref</MDI>
+    <MDI key="STATISTICS_MAXIMUM">100</MDI>
+    <MDI key="STATISTICS_MEAN">20.543021860529</MDI>
+    <MDI key="STATISTICS_MINIMUM">-2.2204460492503e-14</MDI>
+    <MDI key="STATISTICS_STDDEV">21.977912649888</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">99.754364013672</MDI>
+      <MDI key="STATISTICS_MEAN">47.87034513404</MDI>
+      <MDI key="STATISTICS_MINIMUM">9.1286819952074e-05</MDI>
+      <MDI key="STATISTICS_STDDEV">22.439357074593</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">66.14</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
